@@ -3,8 +3,6 @@ import { useState } from 'react'
 import { StepOne } from './StepOne'
 import { StepTwo } from './StepTwo'
 import { PrimaryButton, SecondaryButton } from '../components/Button'
-import { TextInput } from '../components/Input'
-
 
 import imgForMobile from '../assets/img-for-mobile.png'
 import imgForDesktop from '../assets/img-for-desktop.png'

@@ -8,7 +8,7 @@ export function StepOne(props) {
     return (
         <>
             <div className='bg-white p-4 lg:p-8 rounded-md lg:rounded-t-md lg:rounded-b-none absolute top-0 left-0 right-0 lg:static shadow-sm'>
-                <h1 className="lg:text-4xl text-xl font-semibold">Mekanisme Donatur Tetap</h1>
+                <h1 className="lg:text-4xl text-xl font-semibold text-peduly-orange">Mekanisme Donatur Tetap</h1>
                 <p className="text-neutral-400 mt-2 mb-6" >Biar ga <i>miskom</i> mohon dibaca dengan seksama ya..</p>
 
                 <ol className='pl-4 list-decimal mb-8 break-normal'>
